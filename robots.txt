@@ -38,7 +38,7 @@ Allow: /
 User-agent: OAI-SearchBot
 Allow: /
 
-Sitemap: https://gophonics.app/sitemap.xml
+Sitemap: https://themansigoel.github.io/go-phonics/sitemap.xml
 # LLM Context Documentation
-# https://gophonics.app/llms.txt
-# https://gophonics.app/llms-full.txt
+# https://themansigoel.github.io/go-phonics/llms.txt
+# https://themansigoel.github.io/go-phonics/llms-full.txt

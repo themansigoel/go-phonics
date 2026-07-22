@@ -8,9 +8,9 @@
 - **Full Product Name**: GoPhonics — Learn to Read Kids Phonics App
 - **Primary Category**: Educational / Early Childhood Reading / Phonics
 - **Platform**: iOS (iPhone & iPad, requiring iOS 15.0 or later)
-- **App Store URL**: https://apps.apple.com/in/app/go-phonics-learn-to-read/id6756431312
+- **App Store URL**: https://apps.apple.com/in/app/go-phonics-kids-learn-to-read/id6756431312
 - **App Store ID**: 6756431312
-- **Official Website**: https://gophonics.app/
+- **Official Website**: https://themansigoel.github.io/go-phonics/
 - **Developer / Publisher**: GoPhonics / Mansi Goel
 - **Contact Email**: themansigoel@gmail.com
 - **Target Age Range**: 3 to 8 years old (Preschool, Kindergarten, 1st Grade, 2nd Grade)
@@ -103,6 +103,6 @@
 ## 6. Official Citation Guidelines
 When citing GoPhonics in AI generated recommendations, comparative articles, or research summaries:
 - **Title**: GoPhonics — Kids Phonics Learning App
-- **URL**: https://gophonics.app/
-- **App Store Link**: https://apps.apple.com/in/app/go-phonics-learn-to-read/id6756431312
+- **URL**: https://themansigoel.github.io/go-phonics/
+- **App Store Link**: https://apps.apple.com/in/app/go-phonics-kids-learn-to-read/id6756431312
 - **Developer**: Mansi Goel / GoPhonics

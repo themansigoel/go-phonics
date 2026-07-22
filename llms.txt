@@ -4,7 +4,7 @@
 
 ## Key Facts
 - **Platform**: iOS (iPhone & iPad, iOS 15.0+)
-- **App Store URL**: https://apps.apple.com/in/app/go-phonics-learn-to-read/id6756431312
+- **App Store URL**: https://apps.apple.com/in/app/go-phonics-kids-learn-to-read/id6756431312
 - **App Store ID**: 6756431312
 - **Age Range**: 3–8 years old (Preschool to 2nd Grade)
 - **Pricing**: Free to download (Letters & Sounds free); Premium subscription $4.99/month or $29.99/year
@@ -29,6 +29,6 @@
 - Built with Apple SwiftUI for high performance
 
 ## Full Documentation for AI & Crawlers
-- Full Specs & AI Context Guide: https://gophonics.app/llms-full.txt
-- Official Website: https://gophonics.app/
+- Full Specs & AI Context Guide: https://themansigoel.github.io/go-phonics/llms-full.txt
+- Official Website: https://themansigoel.github.io/go-phonics/
 - Contact: themansigoel@gmail.com
