@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Page Not Found — GoPhonics</title>
+  <meta name="description" content="The page you're looking for doesn't exist. Return to GoPhonics homepage.">
+  <link rel="icon" type="image/png" href="assets/images/app-icon.png">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="site-header scrolled" id="site-header">
+    <div class="header-inner">
+      <a href="index.html" class="logo">
+        <img src="assets/images/app-icon.png" alt="GoPhonics" width="42" height="42">
+        <span>GoPhonics</span>
+      </a>
+      <nav class="nav-links" id="nav-links">
+        <a href="index.html">Home</a>
+        <a href="index.html#features">Features</a>
+        <a href="index.html#pricing">Pricing</a>
+        <a href="contact.html">Contact</a>
+        <a href="#" class="nav-cta">Download Free</a>
+      </nav>
+      <button class="menu-toggle" id="menu-toggle" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <section class="page-header" style="min-height: 80vh; display: flex; align-items: center; justify-content: center; flex-direction: column;">
+    <div class="container text-center">
+      <div style="font-size: 6rem; margin-bottom: 1rem;">🦕</div>
+      <h1>Oops! Page Not Found</h1>
+      <p style="margin: 1.5rem auto;">Our dinosaur couldn't find this page. It might have wandered off to learn some new letters!</p>
+      <div style="display: flex; gap: 1rem; justify-content: center; margin-top: 2rem;">
+        <a href="index.html" class="btn btn-primary">Go Home</a>
+        <a href="contact.html" class="btn btn-secondary" style="color: white; border-color: rgba(255,255,255,0.3);">Contact Us</a>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-bottom">
+        <p>&copy; 2026 GoPhonics. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const menuToggle = document.getElementById('menu-toggle');
+    const navLinks = document.getElementById('nav-links');
+    menuToggle.addEventListener('click', () => {
+      menuToggle.classList.toggle('active');
+      navLinks.classList.toggle('active');
+    });
+  </script>
+</body>
+</html>

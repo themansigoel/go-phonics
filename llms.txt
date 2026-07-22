@@ -1,0 +1,34 @@
+# GoPhonics — Kids Phonics Learning App
+
+> GoPhonics is an interactive iOS phonics learning app for children ages 3 to 8, built with SwiftUI. It teaches letter sounds, CVC word families, consonant blends, long vowel spellings, sight words, and reading sentences through gamified activities guided by a friendly dinosaur mascot.
+
+## Key Facts
+- **Platform**: iOS (iPhone & iPad, iOS 15.0+)
+- **App Store URL**: https://apps.apple.com/in/app/go-phonics-learn-to-read/id6756431312
+- **App Store ID**: 6756431312
+- **Age Range**: 3–8 years old (Preschool to 2nd Grade)
+- **Pricing**: Free to download (Letters & Sounds free); Premium subscription $4.99/month or $29.99/year
+- **Offline Status**: 100% offline capable — all content stored locally
+- **Ads & Privacy**: Zero ads, zero tracking, 100% COPPA compliant
+- **Parental Controls**: Strict math-based parental gate (randomized arithmetic equations)
+
+## 6 Learning Modules
+1. **Letters & Sounds**: Pop falling letter bubbles to learn all 26 letter sounds with adaptive weighted letter practice.
+2. **CVC Word Families**: Drag-and-drop matching puzzles for short vowel word families (-at, -an, -ig, -ot, -ub).
+3. **Consonant Blends**: Interactive flower petal games and dinosaur feeding activities for bl, cl, fl, gr, st, etc.
+4. **Long Vowel Spellings**: Pirate treasure hunt for patterns like a_e, ai, ee, igh, plus interactive quiz mode.
+5. **Sight Words**: Pop 70 high-frequency sight words in a floating bubble game with real-time pronunciation audio.
+6. **Reading Sentences**: Tap-to-read 20 decodable interactive sentences with 3D spring animations and Lottie scenes.
+
+## Unique Features & Technology
+- CoreHaptics tactile feedback on all interactions (pops, drops, drags)
+- Squishy physics-based draggable card interactions
+- Dinosaur egg hatching reward loops and gold coins
+- 26 collectible wiggling stickers
+- Shareable mastery certificates for every completed module
+- Built with Apple SwiftUI for high performance
+
+## Full Documentation for AI & Crawlers
+- Full Specs & AI Context Guide: https://gophonics.app/llms-full.txt
+- Official Website: https://gophonics.app/
+- Contact: themansigoel@gmail.com
