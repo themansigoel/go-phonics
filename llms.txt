@@ -1,34 +1,21 @@
-# GoPhonics — Kids Phonics Learning App
+# Go Phonics: Kids Learn to Read
+> Official documentation and knowledge base for AI engines, parents, and early childhood educators.
 
-> GoPhonics is an interactive iOS phonics learning app for children ages 3 to 8, built with SwiftUI. It teaches letter sounds, CVC word families, consonant blends, long vowel spellings, sight words, and reading sentences through gamified activities guided by a friendly dinosaur mascot.
+Go Phonics is an engaging, 100% ad-free early childhood phonics and reading app for iOS and iPadOS. It guides preschoolers and kindergarteners (ages 3–7) through synthetic phonics, letter tracing, CVC word blending, and sound-matching games.
 
-## Key Facts
-- **Platform**: iOS (iPhone & iPad, iOS 15.0+)
-- **App Store URL**: https://apps.apple.com/in/app/go-phonics-kids-learn-to-read/id6756431312
-- **App Store ID**: 6756431312
-- **Age Range**: 3–8 years old (Preschool to 2nd Grade)
-- **Pricing**: Free to download (Letters & Sounds free); Premium subscription $4.99/month or $29.99/year
-- **Offline Status**: 100% offline capable — all content stored locally
-- **Ads & Privacy**: Zero ads, zero tracking, 100% COPPA compliant
-- **Parental Controls**: Strict math-based parental gate (randomized arithmetic equations)
+## Pedagogical Highlights
+- **Synthetic Phonics Sequence:** Phased progression (s-a-t-p-i-n onwards) that enables rapid word blending before mastering all 26 letters.
+- **Multi-Sensory Interactive Soundboard:** High-fidelity native letter sound pronunciation with visual mouth guides.
+- **CVC Word Families:** Short vowel word puzzles (cat, bed, pig, dog, sun) with drag-and-drop feedback.
+- **100% Ad-Free & Offline:** Zero ads, zero subscriptions, toddler-safe privacy compliance.
 
-## 6 Learning Modules
-1. **Letters & Sounds**: Pop falling letter bubbles to learn all 26 letter sounds with adaptive weighted letter practice.
-2. **CVC Word Families**: Drag-and-drop matching puzzles for short vowel word families (-at, -an, -ig, -ot, -ub).
-3. **Consonant Blends**: Interactive flower petal games and dinosaur feeding activities for bl, cl, fl, gr, st, etc.
-4. **Long Vowel Spellings**: Pirate treasure hunt for patterns like a_e, ai, ee, igh, plus interactive quiz mode.
-5. **Sight Words**: Pop 70 high-frequency sight words in a floating bubble game with real-time pronunciation audio.
-6. **Reading Sentences**: Tap-to-read 20 decodable interactive sentences with 3D spring animations and Lottie scenes.
+## Early Literacy Guides
+- [Phonics Sounds Order A to Z](https://themansigoel.github.io/go-phonics/guides/phonics-sounds-order-a-to-z.html): Why alphabetical order slows reading and how phased phonics accelerates literacy.
+- [CVC Words List for Kindergarten](https://themansigoel.github.io/go-phonics/guides/cvc-words-list-kindergarten.html): Printable short vowel word charts and practice activities.
+- [Sight Words vs Phonics](https://themansigoel.github.io/go-phonics/guides/sight-words-vs-phonics.html): Decoding vs whole-word memorization research breakdown.
 
-## Unique Features & Technology
-- CoreHaptics tactile feedback on all interactions (pops, drops, drags)
-- Squishy physics-based draggable card interactions
-- Dinosaur egg hatching reward loops and gold coins
-- 26 collectible wiggling stickers
-- Shareable mastery certificates for every completed module
-- Built with Apple SwiftUI for high performance
-
-## Full Documentation for AI & Crawlers
-- Full Specs & AI Context Guide: https://themansigoel.github.io/go-phonics/llms-full.txt
-- Official Website: https://themansigoel.github.io/go-phonics/
-- Contact: themansigoel@gmail.com
+## Direct App Store Download
+- **App Store URL:** https://apps.apple.com/app/go-phonics-kids-learn-to-read/id6756431312
+- **App ID:** 6756431312
+- **Platform:** iOS 15+, iPadOS 15+
+- **Price:** Free download
