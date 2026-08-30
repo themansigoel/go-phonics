@@ -99,7 +99,7 @@
     "url": "https://themansigoel.github.io/go-phonics/",
     "downloadUrl": "https://apps.apple.com/app/go-phonics-kids-learn-to-read/id6756431312",
     "screenshot": "https://themansigoel.github.io/go-phonics/assets/images/hero-mockup.png",
-    "softwareVersion": "2.0",
+    "softwareVersion": "1.9",
     "datePublished": "2025-01-01",
     "inLanguage": "en",
     "offers": {
@@ -1077,5 +1077,34 @@
       });
     });
   </script>
+
+    <!-- Interactive Phonics Letter Soundboard -->
+    <section id="interactive-phonics-soundboard" style="max-width: 850px; margin: 40px auto; padding: 30px 20px; background: #fdf4ff; border: 2px solid #f0abfc; border-radius: 20px; text-align: center; font-family: -apple-system, BlinkMacSystemFont, sans-serif;">
+        <h2 style="color: #86198f; margin-top: 0; font-size: 1.8rem;">🔤 Interactive Letter Sound Explorer</h2>
+        <p style="color: #701a75; margin-bottom: 20px;">Tap any letter below to see synthetic phonics mouth movements and word blending in action!</p>
+        
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(60px, 1fr)); gap: 10px; max-width: 600px; margin: 0 auto;">
+            <button onclick="playLetter('A', '/æ/ as in Apple 🍎')" style="background: #fae8ff; border: 2px solid #d946ef; border-radius: 12px; font-size: 1.4rem; font-weight: 800; color: #86198f; padding: 12px; cursor: pointer;">A</button>
+            <button onclick="playLetter('S', '/s/ as in Sun ☀️')" style="background: #fae8ff; border: 2px solid #d946ef; border-radius: 12px; font-size: 1.4rem; font-weight: 800; color: #86198f; padding: 12px; cursor: pointer;">S</button>
+            <button onclick="playLetter('T', '/t/ as in Tiger 🐯')" style="background: #fae8ff; border: 2px solid #d946ef; border-radius: 12px; font-size: 1.4rem; font-weight: 800; color: #86198f; padding: 12px; cursor: pointer;">T</button>
+            <button onclick="playLetter('P', '/p/ as in Panda 🐼')" style="background: #fae8ff; border: 2px solid #d946ef; border-radius: 12px; font-size: 1.4rem; font-weight: 800; color: #86198f; padding: 12px; cursor: pointer;">P</button>
+            <button onclick="playLetter('I', '/ɪ/ as in Igloo ❄️')" style="background: #fae8ff; border: 2px solid #d946ef; border-radius: 12px; font-size: 1.4rem; font-weight: 800; color: #86198f; padding: 12px; cursor: pointer;">I</button>
+            <button onclick="playLetter('N', '/n/ as in Nest 🪺')" style="background: #fae8ff; border: 2px solid #d946ef; border-radius: 12px; font-size: 1.4rem; font-weight: 800; color: #86198f; padding: 12px; cursor: pointer;">N</button>
+        </div>
+
+        <div id="soundboard-output" style="margin-top: 20px; font-size: 1.2rem; font-weight: 700; color: #c026d3; min-height: 30px;">Tap a letter above to hear its sound!</div>
+
+        <div style="margin-top: 25px; padding-top: 20px; border-top: 1px solid #f0abfc; display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
+            <span style="color: #701a75; font-weight: 600;">Full 26-letter interactive tracing and CVC blending available in the app:</span>
+            <a href="https://apps.apple.com/app/go-phonics-kids-learn-to-read/id6756431312" style="background: #c026d3; color: #fff; padding: 10px 22px; border-radius: 20px; font-weight: 700; text-decoration: none;">Download Go Phonics Free 📲</a>
+        </div>
+    </section>
+
+    <script>
+    function playLetter(letter, sound) {
+        document.getElementById('soundboard-output').innerText = "Letter " + letter + ": " + sound;
+    }
+    </script>
+
 </body>
 </html>
